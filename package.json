@@ -1,6 +1,6 @@
 {
 	"name": "look",
-	"version": "0.1.3",
+	"version": "0.1.4",
 	"description": "Performance profiler based on nodetime",
 	"keywords": [
 		"profiler",
@@ -18,16 +18,16 @@
 		"metrics"
 	],
 	"author": {
-		"name": "Vadim M. Baryshev",
-		"email": "vadimbaryshev@gmail.com"
+		"name": "Tom Xiong",
+		"email": "tomxiongzh@gmail.com"
 	},
 	"repository": {
 		"type": "git",
-		"url": "git://github.com/baryshev/look.git"
+		"url": "git://github.com/tomxiong/look.git"
 	},
 	"main": "index",
 	"dependencies": {
-		"nodetime": "0.4.6",
+		"nodetime": "0.4.7",
 		"clusterhub": "0.2.1",
 		"connect": "2.7.4",
 		"connect-route": "0.1.3",
