@@ -1,6 +1,6 @@
 # AppMonitor
 AppMonitor is base on [Look] (https://github.com/baryshev/look).
-Look is a perfomance profiler for node.js applications based on [nodetime](https://github.com/nodetime/nodetime).
+Look is a perfomance profiler for node.js applications based on [nodetime](https://github.com/SSI-Avalon/nodetime).
 
 AppMonitor just collect performance and send message by Socket.IO then any socket.IO client can receive those performance data and re-send any where.
 

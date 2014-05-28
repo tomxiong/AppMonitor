@@ -1,20 +1,13 @@
 {
-	"name": "AppMonitor",
-	"version": "0.1.4",
+	"name": "appmonitor",
+	"version": "0.0.1",
 	"description": "Performance profiler based on look",
 	"keywords": [
 		"profiler",
-		"profiling",
-		"tracing",
 		"cpu",
 		"heap",
 		"performance",
 		"instrumentation",
-		"response time",
-		"performance",
-		"bottlenecks",
-		"monitoring",
-		"analytics",
 		"metrics"
 	],
 	"author": {
