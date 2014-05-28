@@ -1,1 +1,1 @@
-module.exports = require('./lib/nodeappmonitor');
+module.exports = require('./lib/appmonitor');

@@ -1,5 +1,5 @@
 {
-	"name": "NodeAppMonitor",
+	"name": "AppMonitor",
 	"version": "0.1.4",
 	"description": "Performance profiler based on look",
 	"keywords": [
@@ -23,7 +23,7 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "git://github.com/tomxiong/NodeAppMonitor.git"
+		"url": "git://github.com/tomxiong/AppMonitor.git"
 	},
 	"main": "index",
 	"dependencies": {
