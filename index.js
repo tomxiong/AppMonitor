@@ -1,1 +1,1 @@
-module.exports = require('./lib/look');
+module.exports = require('./lib/nodeappmonitor');
