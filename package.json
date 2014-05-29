@@ -1,6 +1,6 @@
 {
 	"name": "appmonitor",
-	"version": "0.0.1",
+	"version": "0.0.4.1",
 	"description": "Performance profiler based on look",
 	"keywords": [
 		"profiler",
@@ -20,7 +20,7 @@
 	},
 	"main": "index",
 	"dependencies": {
-		"nodetime": "0.4.7",
+		"nodetime047": "0.4.7.1",
 		"clusterhub": "0.2.1",
 		"connect": "2.7.4",
 		"connect-route": "0.1.3",
