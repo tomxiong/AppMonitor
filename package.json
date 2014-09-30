@@ -1,6 +1,6 @@
 {
-	"name": "appmonitor",
-	"version": "0.0.8",
+	"name": "FoglightAPM-Monitor",
+	"version": "0.0.1",
 	"description": "Performance profiler based on look",
 	"keywords": [
 		"profiler",
